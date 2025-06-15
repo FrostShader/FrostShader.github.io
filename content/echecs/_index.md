@@ -5,4 +5,4 @@ author: "FrostShader"
 draft: false
 ---
 
-- [Ouvertures](https://frostshader.github.io/chess-openings/)
+- [Ouvertures](https://chess-openings.martin-paul.fr/)
