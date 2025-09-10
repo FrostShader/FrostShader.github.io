@@ -6,5 +6,5 @@ draft: false
 
 Coucou, site des Martin Paul
 
-Il parle de [création de jeux vidéo](/gamedev), de [minecraft](/minecraft) et d’[échecs](/echecs).
+Il parle de [livre de fantasy](/dae), [création de jeux vidéo](/gamedev), de [minecraft](/minecraft) et d’[échecs](/echecs).
 
