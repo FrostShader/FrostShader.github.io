@@ -1,11 +1,9 @@
 ---
 title: "Dragon et Empire"
 date: 2025-09-10T21:23:39+02:00
-author: "Dav"
+author: "David"
 draft: false
 ---
-
-
 
 # Dragons&Empires™
 
