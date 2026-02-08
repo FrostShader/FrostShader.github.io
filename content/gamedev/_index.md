@@ -5,4 +5,6 @@ author: "David"
 draft: false
 ---
 
-Mes jeux vidéo sous Godot sont sur [thejaguars.itch.io](https://thejaguars.itch.io/)
+J’ai réalisé des jeux vidéos : 
+- en scratch : [scratch.mit.edu/users/Frosth-riders/](https://scratch.mit.edu/users/Frosth-riders/) 
+- sous Godot : [thejaguars.itch.io](https://thejaguars.itch.io/)
