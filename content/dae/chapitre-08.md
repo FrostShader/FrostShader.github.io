@@ -1,9 +1,8 @@
 ---
 title: "Chapt VIII : Le Draar"
+author: "David"
 weight: 8
 ---
-
-# Chapt VIII : Le Draar
 
 Lui, un enfant banal parmi les autres de son village, lui qui avait toujours eu une existence ordinaire à part les événements récents, lui, avait été choisi par les Dieux pour être un des rares possesseurs de la magie la plus puissante que ce Royaume connaisse.
 Il était euphorique à l'idée d'être important, il avait toujours rêvé d'être connu, comme les héros de contes, que les gens se retournent après son passage et puissent dire à leurs amis : "je l'ai vu ! Je l'ai vu !".

@@ -1,9 +1,8 @@
 ---
 title: "Chapt X : Le serment"
+author: "David"
 weight: 10
 ---
-
-# Chapt X : Le serment
 
 Dans la mystérieuse salle se trouvaient les deux personnes dirigeant le pays, et dans cette même pièce était un enfant qui ne comprenait pas la raison de sa venue.
 - " C'est donc toi..." murmura faiblement le Roi.

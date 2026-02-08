@@ -1,9 +1,8 @@
 ---
 title: "Chapt III : Début du chemin"
+author: "David"
 weight: 3
 ---
-
-# Chapt III : Début du chemin
 
 La capitale était à quatre jours entiers de marche mais plusieurs villes où il pourrait s'arrêter étaient sur le chemin.
 Il avait trouvé quelques bourses de pièces dans des débris ou proches de cadavres qu'il n'osait pas trop approcher ni fouiller et, avec cet argent, il pourrait se payer des vivres afin de continuer son périple.

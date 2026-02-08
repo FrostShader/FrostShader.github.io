@@ -1,9 +1,8 @@
 ---
 title: "Chapt I : La bête"
+author: "David"
 weight: 1
 ---
-
-# Chapt I : La bête
 
 Il se réveilla au milieu de la nuit.
 N'arrivant pas à se rendormir, il se leva et s'approcha de la fenêtre.

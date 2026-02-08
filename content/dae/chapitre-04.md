@@ -1,9 +1,8 @@
 ---
 title: "Chapt IV : La fin du voyage"
+author: "David"
 weight: 4
 ---
-
-# Chapt IV : La fin du voyage
 
 > "Est-ce cela la mort ?" se demanda-t-il de manière brusque.
 

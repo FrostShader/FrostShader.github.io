@@ -1,9 +1,8 @@
 ---
 title: "Chapt VI : L'orfèvre"
+author: "David"
 weight: 6
 ---
-
-# Chapt VI : L'orfèvre
 
 Il marcha donc un long moment avant d'atteindre le colossal château où logeaient tous les gardes et tous les nobles de Rimeside.
 L'entrée principale était gardée par quatre gardes qui demandèrent au garçon de quel droit il pouvait entrer.

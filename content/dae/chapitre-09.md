@@ -1,9 +1,8 @@
 ---
 title: "Chapt IX : Les chevaliers"
+author: "David"
 weight: 9
 ---
-
-# Chapt IX : Les chevaliers
 
 Vu que ces impressionnants guerriers étaient dotés d'épais casques et d'armures resplendissantes, ils devaient être haut gradés et l'adolescent se demanda donc pourquoi étaient-ils venus ici ?
 - "Bérétot Asedite, le Royaume a besoin de la présence de l'enfant qui loge chez vous aujourd'hui même. Nous espérons donc que ni vous ni l'enfant ne compliquera notre tache qui consiste à le ramener au château royal." dit un des soldats avec fermeté.

@@ -1,9 +1,8 @@
 ---
 title: "Chapt XIII : Lecture du soir"
+author: "David"
 weight: 13
 ---
-
-# Chapt XIII : Lecture du soir
 
 À Paloin, la dernière ville où l'adolescent avait été avant d'entrer à Rimeside, il avait croisé la route de cet homme à la présence si imposante devant les portes du château du seigneur de la petite ville.
 Que se passerait-il s'il recroisait la route du Dragonneur ? Le jeune homme préférait ne pas y penser, il se confina donc dans sa chambre et mit la main sur les livres qu'il avait récupéré dans la bibliothèque du château.

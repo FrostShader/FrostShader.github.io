@@ -1,9 +1,8 @@
 ---
 title: "Chapt II : Survivre"
+author: "David"
 weight: 2
 ---
-
-# Chapt II : Survivre
 
 Il se réveilla encore une fois, mais cette fois-ci dans la douleur et sur un tas d'éléments très inconfortables.
 Chacun de ses membres le faisait souffrir terriblement et il sentait quelque chose planté dans sa jambe mais il était trop terrorisé pour regarder, ne serait-ce que jeter un simple coup d'œil, sur sa jambe sans doute meurtrie par un caillou quelconque.

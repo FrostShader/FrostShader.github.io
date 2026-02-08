@@ -1,9 +1,8 @@
 ---
 title: "Chapt V : La capitale Rimeside"
+author: "David"
 weight: 5
 ---
-
-# Chapt V : La capitale Rimeside
 
 Les immenses portes et les imposantes murailles de la Capitale servaient à empêcher toute intrusion et elles évoquaient au jeune homme un sentiment de puissance, de domination et de protection.
 Les gardes lui demandèrent la raison de sa venue et il leur expliqua la destruction du village et son périple jusqu'ici. Ces derniers, non insensibles à son histoire, lui souhaitèrent bonne chance en lui ouvrant la porte de la ville.

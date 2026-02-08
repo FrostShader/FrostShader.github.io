@@ -1,9 +1,8 @@
 ---
 title: "Chapt XIV : Une terrible prémonition"
+author: "David"
 weight: 14
 ---
-
-# Chapt XIV : Une terrible prémonition
 
 Son sommeil était profond, mais très étrange, non pas comme s'il utilisait le Draar mais comme si son rêve était réelle et qu'il se produisait à un endroit du globe.
 Le chaos était la seule description possible pour la scène qui se tenait là.

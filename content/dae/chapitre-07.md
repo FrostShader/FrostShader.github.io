@@ -1,9 +1,8 @@
 ---
 title: "Chapt VII"
+author: "David"
 weight: 7
 ---
-
-# Chapt VII
 
 L'homme le dévisagea curieusement et l'adolescent commençait à regretter son acte, et si ce n'était pas lui ?
 Il allait s'excuser lorsque l'homme se décida à parler.

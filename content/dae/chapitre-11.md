@@ -1,9 +1,8 @@
 ---
 title: "Chapt XI : L'entraînement"
+author: "David"
 weight: 11
 ---
-
-# Chapt XI : L'entraînement
 
 - "Vous êtes tous là ? Bien, commençons dès maintenant." dit Artyrus, pendant ce temps, Artyan était entrée dans la cabane et en était ressortie avec un bac rempli d'épées d'entraînement en bois.
 Chaque élève fut invité à prendre une de ces armes puis Artyan demanda aux adolescents de se mettre deux par deux afin de s'affronter. L'ancien habitant du village de Bourg-a-blé se dota d'une épée et fit face à Hiallan.

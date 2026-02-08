@@ -1,9 +1,8 @@
 ---
 title: "Chapt XII : Androra"
+author: "David"
 weight: 12
 ---
-
-# Chapt XII : Androra
 
 Le jour se leva en même temps qu'un coq, qui se fit d'ailleurs un plaisir de réveiller toutes les personnes dans un rayon de cinq kilomètres en poussant son typique cri.
 L'adolescent porteur du Draar se leva donc à l'instant où il entendit cet horrible hurlement et s'habilla avant de descendre un étage du majestueux château pour aller dans la première salle de cours. La majorité des élèves étaient là mais le professeur manquait à l'appel pour le moment. Dès son arrivée, Drazart fut accueilli par Hiallan qui le salua et lui signala une nouvelle pour le moins étonnante.
