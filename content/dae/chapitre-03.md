@@ -23,7 +23,8 @@ Un majestueux palais était situé au centre de la ville et quelques magasins et
 Il pénétrait tout juste dans la ville au moment où un garde l'interpella.
 Le jeune survivant n'avait aucune raison d'être arrêté et s'inquiéta mais heureusement le garde lui demanda juste pourquoi il était couvert de blessures "Que t'est-il arrivé pour être autant amoché ? Des brigands t'ont attaqué ?" demanda le garde, surpris par la gravité des blessures.
 L'adolescent inspira profondément et répondit ce qu'il avait déduit : "J'aurais préféré que ce soit le cas ; une créature avait ravagé mon village et je ne pense pas qu'il y ait de survivants à part moi."
-- "As-tu vu la bête ? Il faudrait songer à faire une description de l'événement à un des servants du Duc afin qu'il en réfère au Roi lui-même."
+> "As-tu vu la bête ? Il faudrait songer à faire une description de l'événement à un des servants du Duc afin qu'il en réfère au Roi lui-même."
+
 Le château n'est situé qu'à quelques rues d'ici, c'est vers la grande tour que l'on peut voir là-bas" et, de ce fait, il désigna une impressionnante tour située à quelques centaines de mètres de là.
 Le jeune homme remercia le garde mais partit d'abord en direction d'un lieu pour se reposer et se désaltérer.
 Il trouva rapidement une vieille auberge portant le drôle de nom de "La jument-pas-aisé".
@@ -37,9 +38,11 @@ Il se réveilla tôt, toujours aussi fatigué que la veille, et il descendit man
 Enfin, il le pensait vivant mais après cette pensée il s'inquiéta, peut-être était-il mort au cours d'un combat, les soldats étaient souvent confrontés à des problèmes, c'était même leur métier et de toute façon il n'avait pas d'autre choix que de le chercher.
 À une table d'à côté, un ivrogne raconta que son village avait été détruit par un monstre de la taille du plus grand navire de guerre du royaume, il affirmait que la créature était un dragon, pourtant devenu rare à cause du braconnage et des guerres.
 Le jeune homme, intrigué par l'histoire de l'homme, se rapprocha de lui et lui demanda d'une voix faible :
--Excusez-moi mais puis-je savoir dans quel village a eu lieu cet événement ?
+> "Excusez-moi mais puis-je savoir dans quel village a eu lieu cet événement ?"
+
 L'homme poussa un grognement de surprise et répliqua :
--Bourg-en-gré. C'tait à Bourg-en-gré qu'l a attaqué. Pourquoi t'veux s'voir ça g'min ?
+> "Bourg-en-gré. C'tait à Bourg-en-gré qu'l a attaqué. Pourquoi t'veux s'voir ça g'min ?"
+
 Le garçon, amusé par le drôle accent de l'homme reprit son sérieux et lui expliqua que Bourg-à-blé avait aussi subi une attaque.
 L'homme ne parut pas écouter et recommença à raconter l'attaque à l'aubergiste, qui n'avait pas l'air d'en croire un mot.
 Après avoir fini son bout de pain, le jeune survivant se rappela du conseil du garde la veille et se dirigea vers le palais. Arrivé devant, il demanda à un garde de transmettre son message au Duc dirigeant le château mais devant le manque d'intérêt que le soldat lui portait, l'adolescent pensa que le message avait peu de chances d'arriver à destination.
@@ -74,14 +77,20 @@ Peut-être y aurait-il des hommes à moitié lézards et à moitié humains, ou 
 Et c'est à ce moment-là qu'il aperçut la seconde ville de son périple ; il venait de quitter la plaine et il entrait dans une vallée entourée de montagnes, la petite ville était située au début de la vallée et s'étendait sur toute la largeur disponible.
 Il entra dans cette ville à la recherche d'un endroit pour se faire soigner car sa jambe droite le faisait malheureusement toujours souffrir, il trouva rapidement une infirmerie pour soldats et y entra sans se demander s'ils accepteraient de le soigner.
 Les infirmiers avaient la compassion et soignèrent l'enfant sans rien demander en échange.
-- C'est une belle blessure... comment te l'es-tu faite ?
-- J'étais dans ma maison lorsqu'elle s'est effondrée à cause d'un monstre qui s'était posé dessus.
-- Dans quel village étais-tu ?
-- J'habitais à Bourg-en-blé avant qu'elle fût réduite à un tas de cendres.
+
+> "C'est une belle blessure... comment te l'es-tu faite ?"
+
+> "J'étais dans ma maison lorsqu'elle s'est effondrée à cause d'un monstre qui s'était posé dessus."
+
+> "Dans quel village étais-tu ?"
+
+> "J'habitais à Bourg-en-blé avant qu'elle fût réduite à un tas de cendres."
+
 Le soigneur venait de lui faire quelque chose de douloureux et l'adolescent dût se retenir de ne pas hurler.
 Il n'y connaissait rien en médecine et ne savait pas si souffrir était normal pour guérir, toutes les blessures qu'il avait eues au cours de sa vie s'étaient guéries d'elles-mêmes mais celle-ci était vraiment grave.
 Le médecin rassura le jeune blessé.
-- Tu as de la chance que ça ne se soit pas infecté, sinon tu serais sûr de mourir dans les prochaines semaines.
+> "Tu as de la chance que ça ne se soit pas infecté, sinon tu serais sûr de mourir dans les prochaines semaines."
+
 Pas vraiment rassuré, le jeune homme souffrait en silence : il ne savait pas ce qu'ils faisaient à sa jambe mais si soigner consistait à faire mal, il pourrait le faire aussi.
 Après un long moment, il put enfin se lever et même si sa douleur n'avait pas diminuée, il espérait qu'elle se guérisse vite.
 Les soigneurs avaient nettoyé la plaie, retiré les fragments du bout de bois et mis un bandage pour éviter la perte de sang.
@@ -122,15 +131,23 @@ Il avait les cheveux noirs et les yeux d'un vert émeraude, il semblait énervé
 L'autre homme était âgé et fatigué, il paraissait être le propriétaire des lieux, donc du château.
 Il portait une tunique ornée de pierres précieuses et une sorte de pendentif brillant autour de son cou, peut-être était-ce un artefact magique ?
 L'adolescent n'arriva même pas à tourner la tête pour observer l'endroit, il ne pouvait qu'attendre, observer et écouter la conversation entre l'hôte et son invité.
-- "Je suis désolé mais nous ne pouvons que vous loger vous, votre...animal de compagnie attendra. " dit le maître du château, énervé.
-- "Mon animal de compagnie, comme vous dites, a tué plus d'Asterydiens que l'ensemble des chevaliers du Royaume !" répliqua le chevalier d'un ton agressif.
-- "Vous ne savez donc pas que l'on dit Asteryen maintenant ?" demanda rhétoriquement le seigneur.
-- "Arrêtez d'essayer de détourner le sujet. Ma monture a besoin d'être en forme pour délivrer mon message au Roi."
-- "Et de quel message s'agit-il ?" questionna une nouvelle fois l'hôte.
+> "Je suis désolé mais nous ne pouvons que vous loger vous, votre...animal de compagnie attendra. " dit le maître du château, énervé.
+
+> "Mon animal de compagnie, comme vous dites, a tué plus d'Asterydiens que l'ensemble des chevaliers du Royaume !" répliqua le chevalier d'un ton agressif.
+
+> "Vous ne savez donc pas que l'on dit Asteryen maintenant ?" demanda rhétoriquement le seigneur.
+
+> "Arrêtez d'essayer de détourner le sujet. Ma monture a besoin d'être en forme pour délivrer mon message au Roi."
+
+> "Et de quel message s'agit-il ?" questionna une nouvelle fois l'hôte.
+
 Un servant approcha discrètement et servit des verres de vin aux deux personnes débattant furieusement.
-- "Cela ne vous regarde pas, du moins pas pour l'instant."
-- "Les problèmes qui concernent le Roi me concernent aussi, en tant que l'un de ses fidèles sujets, j'ai le droit d'en savoir autant que lui." dis sèchement le noble.
-- "Si vous voulez tant savoir, je peux vous l'accorder mais cela ne vous réjouira guère : il est question de guerre, de guerre entre l'Empire d'Asteryd et notre Royaume."
+> "Cela ne vous regarde pas, du moins pas pour l'instant."
+
+> "Les problèmes qui concernent le Roi me concernent aussi, en tant que l'un de ses fidèles sujets, j'ai le droit d'en savoir autant que lui." dis sèchement le noble.
+
+> "Si vous voulez tant savoir, je peux vous l'accorder mais cela ne vous réjouira guère : il est question de guerre, de guerre entre l'Empire d'Asteryd et notre Royaume."
+
 L'hôte resta dans un état de confusion intense, et soudain, le chevalier se précipita vers l'adolescent et le frappa violemment au visage, puis, il l'attrapa d'une main et se prépara à le taper de l'autre.
 L'adolescent ne contrôlait pas son corps qui gesticulait dans tous les sens mais percevait la douleur qu'il éprouvait.
 Il essaya donc à tout prix de repartir et après un intense effort, il s'évanouit.
