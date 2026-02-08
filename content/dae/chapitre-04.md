@@ -5,7 +5,8 @@ weight: 4
 
 # Chapt IV : La fin du voyage
 
-"Est-ce cela la mort ?" se demanda-t-il de manière brusque.
+> "Est-ce cela la mort ?" se demanda-t-il de manière brusque.
+
 Puis, il trouva sa question stupide après s'être rendu compte qu'il était dans son lit dans l'auberge qu'il avait payé suffisamment cher pour qu'il ne s'en souvienne que trop bien.
 Il était bouillant de fièvre et trempé de sueur. Tout d'abord, il mit une main sur sa joue violentée par le chevalier et s'aperçut avec stupeur qu'il pouvait bel et bien bouger ses membres maintenant et qu'il n'avait rien à la joue.
 Sa première hypothèse fut celle d'un rêve mais il se remémorait exactement chaque instant et il écarta donc cette hypothèse.
@@ -16,7 +17,8 @@ Mais les Asteryens seraient fous de tenter une attaque ; ça, même le garçon l
 Sinon, les rebelles pourraient faire passer les soldats d'Asteryd et ainsi, leurs troupes seraient ensemble et leur puissance en serait décuplée.
 Le garçon oublia rapidement l'événement avant de tomber, une nouvelle fois, dans un profond sommeil.
 Le lendemain, il fut heureux de s'apercevoir qu'il s'était réveillé au même endroit que là où il s'était endormi la veille et, en descendant l'escalier, il entendit des bribes de conversation qui l'interpellèrent.
-- "...un servant s'est fait frapper par le guerrier étranger alors qu'il n'avait rien fait. Et puis à ce qu'il paraît, le Seigneur Dom aurait placé des gardes pour surveiller toutes les sorties, ils recherchaient un utilisateur du Draar..." dit l'aubergiste d'un ton inquiet à un client qui venait d'arriver.
+> "...un servant s'est fait frapper par le guerrier étranger alors qu'il n'avait rien fait. Et puis à ce qu'il paraît, le Seigneur Dom aurait placé des gardes pour surveiller toutes les sorties, ils recherchaient un utilisateur du Draar..." dit l'aubergiste d'un ton inquiet à un client qui venait d'arriver.
+
 L'adolescent sortit et continua sa route l'air de rien, mais l'inquiétude commençait à le gagner sans qu'il ne puisse y faire grand-chose, et, lorsqu'il voulut sortir de la ville, la peur lui noua soudainement l'estomac alors qu'il voyait une dizaine de soldats placés aux portes de la ville : ils contrôlaient toutes les personnes voulant en sortir.
 Un garde s'approcha de lui, son cœur se mit à battre de plus en plus fort. Il l'observa quelques secondes alors qu'il se sentit comprimé de l'intérieur par la terreur, puis, lorsque l'adulte l'autorisa enfin à passer, l'adolescent ne put s'empêcher d'émettre un profond soupir de soulagement.
 Sa frayeur passée, les battements de son cœur se firent de moins en moins fréquents jusqu'au moment où il aperçut avec effroi un autre soldat semblant se diriger vers lui d'un air déterminé. Le jeune homme, de plus en plus saisi intérieurement par l'horreur, partit d'un air naïf le plus rapidement et discrètement possible. Après un nombre interminable de pas d'après son ressenti, il parvint enfin à se placer hors de portée des gardes, puis il se mit à courir de toutes ses forces jusqu'à ce que, par manque de vigueur, il tombe d'épuisement.
