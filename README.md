@@ -14,7 +14,8 @@ Installer vscode pour pouvoir éditer le site.
 - créer ou modifier les fichiers sous le répertoire "content"
 - astuce : vous pouvez prévisualiser sur vscode en tappant CTRL+SHIFT+P puis en tappant "preview markdown" : une fenêtre s'ouvrira avec le contenu formaté
 - ouvrir un terminal sous vscode
-- taper hugo pour générer le site et voir s'il n'y a pas d'erreurs
+- taper `hugo server` et ouvrez un navigateur à l’adresse http://localhost:1313/ pour tester le site
+- taper `hugo`  pour générer le site 
 - si ok, commiter et pousser les fichiers via git
 - ensuite, publier le blog en tappant `./to_ghpages` dans le terminal (il est possible qu'il faille se connecter sur github)
 
