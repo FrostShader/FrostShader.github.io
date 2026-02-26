@@ -1,5 +1,5 @@
 ---
-title: "Dragon et Empire"
+title: "Dragon et Empire par David"
 date: 2025-09-10T21:23:39+02:00
 author: "David"
 draft: false
